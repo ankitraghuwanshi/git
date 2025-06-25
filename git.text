@@ -43,3 +43,8 @@ git commit -m "your message"
 push:- upload local(laptop) repo content to remote(github) repo 
 git push origin main
 
+//other ways to use git// 
+//make code then add in git/github
+1.git init
+2.git add .
+3.

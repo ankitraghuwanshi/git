@@ -1,0 +1,45 @@
+//Git//:-
+-it is a version control system
+-version control system is a tool that helps to track changes in code
+
+uses:-
+1.track the history
+2.to collaberate with team
+    
+//Github//:-
+-website that allow developers to store and manage their code using Git
+-https://github.com
+
+folder == repository == repo
+commit == change
+cd == change directory
+directory == folder
+ls == list file
+
+
+//clone//:-
+clone->cloning a repository on our local machine
+git clone <link>  (https link from github)
+
+//status//:-
+status->display the state of code
+git status
+
+state:-
+1.untracked:- new files that git doesn't yet track
+2.modified:- changed
+3.staged:- file is ready to be commited
+4.unmodified:-unchanged
+
+//add and commit//:-
+
+add:- adds new or changed files in your working directory to the git staging area
+git add <file name>
+
+commit:- it is the record of change
+git commit -m "your message"
+
+//push command//:-
+push:- upload local(laptop) repo content to remote(github) repo 
+git push origin main
+

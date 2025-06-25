@@ -45,6 +45,9 @@ git push origin main
 
 //other ways to use git// 
 //make code then add in git/github
+steps:-
 1.git init
 2.git add .
-3.
+3.git commit
+4.make new file/repo in github without readme.md 
+5.git remote add origin <link>

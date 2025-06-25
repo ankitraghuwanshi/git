@@ -51,3 +51,7 @@ steps:-
 3.git commit
 4.make new file/repo in github without readme.md 
 5.git remote add origin <link>
+6.git remote -v         (to verify remote)
+7.git branch            (to check branch)
+8.git branch -M main    (to rename branch)
+9.git push origin main

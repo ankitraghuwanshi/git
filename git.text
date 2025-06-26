@@ -57,3 +57,11 @@ steps:-
 9.git push origin main
 
 hello
+
+
+
+font awesome js link
+<script 
+    src="https://kit.fontawesome.com/c092c71f5d.js"
+    crossorigin="anonymous"
+></script>
